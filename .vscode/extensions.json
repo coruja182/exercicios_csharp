@@ -5,6 +5,7 @@
         "ms-dotnettools.csdevkit",
         "yzhang.markdown-all-in-one",
         "davidanson.vscode-markdownlint",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "tomoki1207.pdf"
     ]
 }
