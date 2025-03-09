@@ -21,6 +21,6 @@ QUANTIDADE_MAXIMA = int.Parse(Console.ReadLine());
 
 // calcula o estoque médio e o armazena na variável ESTOQUE_MEDIO
 ESTOQUE_MEDIO = (QUANTIDADE_MINIMA + QUANTIDADE_MAXIMA) / 2;
-Console.WriteLine($"Estoque médio: " + ESTOQUE_MEDIO);
+Console.WriteLine("Estoque médio: " + ESTOQUE_MEDIO);
 
 // fim do programa
